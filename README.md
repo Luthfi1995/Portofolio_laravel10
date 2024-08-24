@@ -21,6 +21,26 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+##Note
+Untuk anda yang ingin menambahkan repository ini, mohon untuk klik commit dan download sourcode nya. 
+Selanjutnya buka terminal kalian masukan perintah:
+1. composer install
+2. php artisan key generate
+3. npm run dev
+4. php artisan migrate
+5. php artisan db:seed
+
+
+Untuk masuk ke bagian admin masuk ke alamat admin dan masukan akun.
+1. Email: admin@example.com
+2. Password: admin
+
+                                   ===>Thank All<===
+                                       =========
+                                        =======
+                                         =====
+                                          ===
+                                           =
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
